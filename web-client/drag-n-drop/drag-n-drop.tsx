@@ -3,5 +3,5 @@ export function DragNDrop() {
     <div>
       drag n drop
     </div>
-  )
+  );
 }

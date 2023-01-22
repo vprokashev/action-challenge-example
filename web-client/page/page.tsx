@@ -5,5 +5,5 @@ export function Page() {
     <div>
       page
     </div>
-  )
+  );
 }
